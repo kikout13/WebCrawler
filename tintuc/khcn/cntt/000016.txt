@@ -1,0 +1,5 @@
+Đây không phải là lỗi hệ thống quá nghiêm trọng trên iOS 7.1.
+Một lỗi khá thú vị vừa được phát hiện trên hệ điều hành iOS 7.1 cho phép người dùng có thể xóa tạm thời các ứng dụng mặc định của phiên bản iOS này. Nói xóa tạm thời là bởi khi người dùng khởi động lại thiết bị chạy iOS 7.1, những ứng dụng bị xóa đi vẫn sẽ lại hiện lên. 
+Theo đó, để xóa các ứng dụng mặc định của iOS 7.1 , bạn cần nhóm chúng vào một thư mục mới với điều kiện là thanh dock ứng dụng ở dưới cùng cũng như màn hình đều được phủ kín các ứng dụng và thư mục vừa tạo ở trên là thư mục duy nhất. Sau đó, tiếp tục nhóm các ứng dụng cần xóa ở bên trong thư mục vừa tạo vào một thư mục mới rồi kéo thư mục này ra ngoài để thực hiện ẩn chúng đi. Chi tiết hơn bạn đọc GenK có thể xem ở video bên dưới. 
+Tuy không phải là một lỗi quá nghiêm trọng với hệ thống nhưng đây vẫn có thể là rắc rối nếu như có ai đó lợi dụng để chơi khăm bạn. 
+Tham khảo: PhoneArena 

@@ -1,0 +1,6 @@
+Sau Flappy Bird, giới trẻ toàn cầu lại phát sốt trước một trò chơi đơn giản nhưng đòi hỏi óc tư duy cực logic và phán đoán nhanh nhạy.
+ Ảnh: gabrielecirulli.com 
+Đó là trò 2048, ra mắt vào tháng 3 vừa qua, do lập trình viên Gabriele Cirulli (19 tuổi, người Ý - ảnh) phát triển. 
+Cách chơi trò 2048 rất đơn giản. Có một bảng 4x4 ô số. Dùng tay vuốt màn hình hoặc sử dụng các nút lên, xuống, trái, phải sao cho các ô cùng con số cộng gộp vào nhau. 
+Cứ như thế đến khi có một ô 2.048 điểm thì bạn sẽ thắng trò chơi này. Xem tại: http://youtu.be/2aED90sMZII 
+Nhật Hạ 

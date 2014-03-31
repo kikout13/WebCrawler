@@ -1,0 +1,18 @@
+Sau hơn hai tuần bán ra tại thị trường Việt Nam, smartphone đầu tiên của Nokia chạy hệ điều hành Android vẫn chưa được lòng người tiêu dùng Việt.
+Nokia X chạy Android nhưng lại không sử dụng được các dịch vụ cơ bản của Google Play.
+ Ông Đoàn Văn Hiểu Em, Giám đốc ngành hàng Điện thoại mới của Thế Giới Di Động cho biết, Nokia X chính thức phủ toàn hệ thống Thế Giới Di Động, với 222 siêu thị, từ 15/3/14, nhưng đến nay, sức bán mới đạt khoảng 2.000 máy/tuần, tương ứng gần 300 máy
+gày. 
+ Theo ông Em, sức bán như trên thật sự chưa đáp ứng được kỳ vọng hệ thống siêu thị đã đặt ra, bởi lẽ, đây là lần đầu tiên điện thoại Nokia chạy trên phần mềm Android ở phân khúc giá 2,5 triệu. 
+ Trong khi đó, một hệ thống bán lẻ điện thoại khác là CellphoneS, với 10 cửa hàng tại Hà Nội, Tp.HCM và Hải Phòng, ông Nguyễn Anh Văn, quản lý Cellphones cho biết, Nokia X bán rất chậm, sau hơn một tuần đầu bán ra, cả hệ thống chỉ bán chưa được 30 bộ, trong đó, chủ yếu là trong Tp.HCM, ngoài Hà Nội gần như không bán được máy nào. 
+ “Không ngờ Nokia X lại bán chậm như vậy. Đây cũng là một trong những sản phẩm bán chậm nhất trên hệ thống CellphoneS”, ông Văn cho biết. 
+ Giá bán của sản phẩm này sau hơn hai tuần có mặt trên thị trường (được bán từ 12/3, với giá 2,549 triệu đồng) đã liên tục được các cửa hàng bán lẻ điện thoại điều chỉnh. Tại Hoàng Hà Mobile, giá Nokia X hiện được giảm còn 2,33 triệu đồng (đã gồm 10% VAT), hàng chính hãng; hệ thống CellphoneS cũng giảm giá bán sản phẩm này xuống là 2,38 triệu đồng. 
+ Ngay như các cửa hàng lớn vốn lâu nay thường bán đúng với giá của nhà phân phối và giữ giá khá lâu như hệ thống Mai Nguyên cũng giảm giá Nokia X còn 2,49 triệu đồng. 
+ Tại sao sản phẩm đầu tiên chạy Android của Nokia - được coi là smartphone có giá cạnh tranh nhất trên phân khúc điện thoại Android giá rẻ, đi kèm thiết kế khá cá tính và thời trang - lại bán chậm như vậy? 
+ Ông Em lý giải, những khách hàng trung thành của Nokia đã quá quen thuộc với hệ điều hành Windows Phone nên khi chuyển sang sử dụng Android đôi khi sẽ chưa quen và cần có thời gian tìm hiểu, thích ứng. Ông cũng hy vọng, trong một vài ngày tới sức bán của dòng Nokia X có thể sẽ tăng lên, do người dùng biết nhiều về sản phẩm hơn thông qua các phương tiện truyền thông. 
+ Trong khi đó, theo ông Nguyễn Anh Văn, vấn đề là chất lượng sản phẩm không tốt, nhiều khách hàng dùng thử ở cửa hàng được một lúc là máy treo, đơ cứng. 
+ Nhiều người còn ví von, smartphone giá rẻ Nokia X là "nửa nạc nửa mỡ". Nokia X được xây dựng trên nền tảng Android, tuy nhiên hãng đã sử dụng giao diện của Windows Phone, khác xa so với Android gốc. Nokia X là sự kết hợp của cả hai nền tảng Windows Phone và Android. 
+ “Chạy” Android nhưng trên màn hình hiển thị của Nokia X là đặc sệt Windows Phone khi các ứng dụng được xếp theo ô vuông đơn giản, được kéo dài từ trên xuống dưới, mỗi hàng 3 ô icon, mỗi icon… Đây có lẽ cũng là ký do khiến máy chạy khá chậm. 
+ Một trong những hạn chế lớn nhất của Nokia X là người dùng sẽ không thể sử dụng bất kỳ các ứng dụng nào như đọc sách, xem phim ảnh thông qua cửa hàng trực tuyến Google Play - nơi để người dùng có thể truy cập để mua và tải về các ứng dụng di động, các dịch vụ giải trí. 
+ Nokia X cũng không được cấp phép để truy cập kho ứng dụng Google Play cũng như cài đặt phần mềm của Google như Gmail, trình duyệt Chrome, bản đồ… 
+ Điện thoại chạy Android nhưng lại không sử dụng được các dịch vụ cơ bản của Google Play, nghe như chuyện tiếu lâm! 
+ Thực tế, người dùng cũng có thể sử dụng các ứng dụng trên nhưng phải root máy (mặt kỹ thuật là cho phép chiếm quyền quản trị cao nhất của máy, nhờ đó có thể truy cập vào hệ thống), sau đó cài những ứng dụng trên vào máy mới sử dụng được. Nghĩa là người dùng sẽ rất mất công để “vọc vạch”.

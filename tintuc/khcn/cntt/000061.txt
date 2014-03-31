@@ -1,0 +1,5 @@
+Kể từ ngày 1/4 tới đây, Cơ quan quản lý Hỏa hoạn và Thiên tai Nhật Bản sẽ bắt đầu triển khai một hệ thống mới có khả năng tự động gửi tin nhắn cảnh báo đến người sử dụng điện thoại động khi có một biến cố nghiêm trọng, ví dụ như khủng bố hoặc bị tấn công tên lửa. Hệ thống này được thiết kế tốt đến mức người dùng chẳng cần đăng kí truớc vẫn có thể nhận được tin nhắn, miễn là họ đang trong khu vực bị ảnh hưởng và đang xài một trong ba nhà mạng lớn là NTT DoCoMo, KDDI, SoftBank. Tất nhiên, dịch vụ này hoàn toàn miễn phí.
+​ 
+ Thực chất hệ thống mới này được nâng cấp từ một hệ thống cũ hơn mang tên J-Alert. J-Alert cũng có tính năng cảnh báo trong những trường hợp khẩn cấp, tuy nhiên trước đây nó chỉ có tính năng cảnh báo động đất mà thôi. Chính quyền địa phương cũng sẽ nhận cùng một thông báo khẩn cấp như nội dung được gửi cho người dùng, sau đó họ có thể thông báo cho cư dân qua loa phát thanh hoặc các phương tiện truyền thông khác. 
+ Nguồn: Jiji 
+ Ảnh: ABC ​ 

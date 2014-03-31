@@ -1,0 +1,14 @@
+(GenK.vn) - Trong một bài viết mới nhất trên blog MSDN của hãng, Microsoft đã đưa ra cách mà người dùng có thể sử dụng để gỡ bỏ trình duyệt Internet Explorer 9, 10, và cả 11.
+Sau khi “bỏ rơi” Internet Explorer trong một thời gian dài, hãng phần mềm khổng lồ không chỉ quyết định nâng cấp cho nó thêm nhiều tính năng hấp dẫn hơn mà còn làm cho Internet Explorer an toàn hơn và ổn định. Tuy nhiên, vẫn có là một số người dùng tỏ ra không thích Internet Explorer, và đây là cách mà bạn có thể “loại bỏ” nó khỏi Windows đang dùng. 
+Trong một bài đăng trên blog MSDN , thành viên AxelRMSFT đã chia sẽ cách mà người dùng có thể sử dụng để loại bỏ trình duyệt Internet Explorer 9, 10, và cả 11 ra khỏi Windows đang dùng chỉ bằng nhưng câu lệnh đơn giản. Và người dùng phải đăng nhập bằng quyền quản trị cao nhất mới có thể thực hiện việc này. 
+Cách thực hiện như sau 
+- Gọi hộp thoại Run lên và gõ vào “cmd”, kết thúc bằng phím ENTER để gọi cửa sổ lệnh Command Prompt 
+- Sao chép dòng lệnh sau tương ứng với từng phiên bản Internet Explorer hiện tại đang có trên Windows và dán vào Command Prompt, ENTER để thực thi 
+Với Internet Explorer 9: FORFILES /P %WINDIR%\servicing\Packages /M Microsoft-Windows-InternetExplorer-*9.*.mum /c "cmd /c echo Uninstalling package @fname && start /w pkgmgr /up:@fname /quiet 
+orestart 
+Với Internet Explorer 10: FORFILES /P %WINDIR%\servicing\Packages /M Microsoft-Windows-InternetExplorer-*10.*.mum /c "cmd /c echo Uninstalling package @fname && start /w pkgmgr /up:@fname /quiet 
+orestart 
+​Với Internet Explorer 11: FORFILES /P %WINDIR%\servicing\Packages /M Microsoft-Windows-InternetExplorer-*11.*.mum /c "cmd /c echo Uninstalling package @fname && start /w pkgmgr /up:@fname /quiet 
+orestart 
+- Khởi động lại Windows để thay đổi có hiệu lực 
+Internet Explorer, trình duyệt mặc định của Windows đã dần thay đổi theo chiều hướng tốt lên trong nhiều năm qua. Dù muốn dù không, Internet Explorer vẫn là trình duyệt phổ biến nhất hiện nay. 

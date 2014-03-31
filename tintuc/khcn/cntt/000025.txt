@@ -1,0 +1,10 @@
+Android là hệ điều hành ổn định nhất trên di động, theo báo cáo của Crittercism, một công ty chuyên theo dõi các ứng dụng trên di động.
+ Android là nền tảng di động ổn định nhất. 
+Theo dõi hơn 1 tỷ ứng dụng trên hai nền tảng di động phổ biến nhất hiện nay là iOS và Android, nghiên cứu của Crittercism phát hiện ra rằng tỉ lệ các ứng dụng gặp lỗi crash trên Android KitKat chỉ 0,7%, thấp hơn 1,6% so với tỉ lệ lỗi này trên IOS 7.1. 
+Crash được hiểu là hiện tượng ứng dụng khi mở lên thì lập tức bị đóng hoặc trong lúc đang hoạt động bình thường thì tự đóng lại và tắt hoàn toàn khỏi hệ thống của máy. 
+Một tin vui đối với các fan hâm mộ của Apple chính là tỉ lệ các ứng dụng mắc lỗi crash đang có xu hướng giảm, dù chậm. Theo báo cáo của Crittercism, tỉ lệ mắc lỗi này trên iOS 6 là 2,5% trong khi iOS 7 tỉ lệ này giảm xuống chỉ còn 2,1%. 
+Phiên bản Android KitKat là phiên bản ổn định nhất trên Android, tiếp đó là JellyBean và Ice Cream Sandwich. Tệ nhất trong các phiên bản Android chính là Gingerbread với tỉ lệ mắc lỗi crash là 1,7%. 
+“Có hàng trăm triệu nguyên nhân ảnh hưởng tới tốc độ của ứng dụng di động”, Rob Kwok, CTO của Crittercism nói trên TechCrunch. “Khi một nền tảng di động mới như nên tảng trên các ứng dụng kỹ thuật số đeo được phát triển, thách thức sẽ còn lớn hơn khi các nhà phát triển muốn cung cấp một trải nghiệm tốt hơn đến người dùng”. 
+Rất nhiều con số thú vị khác cũng được tiết lộ từ báo cáo của Crittercism: Các ứng dụng trên máy tính bảng gặp nhiều lỗi crash hơn trên smartphone. Chẳng hạn, các trò chơi trên máy tính bảng gặp lỗi crash nhiều hơn với tỉ lệ lên tới 4,4%. Và vì nhiều nguyên nhân khác nhau, Canada là nơi các ứng dụng di động gặp nhiều lỗi crash nhất. 
+Crittercism cũng phát hiện ra rằng, trung bình, các ứng dụng sử dụng 6 dịch vụ đám mây khác nhau. Trong khi đó, gần một nửa số lượng ứng dụng trên di động có tỉ lệ mắc lỗi crash là 1% trong khi một phần ba có tỉ lệ là trên 2%. 
+Lê Văn (Theo Digitaltrends) 

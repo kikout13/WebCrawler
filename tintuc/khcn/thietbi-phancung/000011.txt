@@ -1,0 +1,12 @@
+(XHTT) Chiếc thảm này sẽ bổ sung thêm vào bộ sưu tập những thiết bị gia dụng có khả năng kết nối thông minh. Thảm do tiến sĩ Andrew Clark chế tạo hoạt động như một cảm biến áp lực và kết nối Wi-Fi cho phép nó có thể kích hoạt một loạt hành động nào đó khi có người bước chân lên thảm.
+Thảm cửa thông minh sẽ gửi dữ liệu thu thập được tới một máy chủ đám mây, và thông qua giao diện duyệt web hoặc điện thoại, người dùng có thể thiết lập các hành động tương ứng với các kích hoạt trên thảm. 
+Nhờ sử dụng cảm biến áp lực nên thảm có thể phân biệt được những vật dụng, con người hoặc vật nuôi bên trên. Tiềm năng sử dụng của SmartMat có thể bao gồm: gởi một tin nhắn khi thú cưng đang nằm trên thảm đợi được ra/vào nhà hoặc một gói hàng bị để quên tại cửa và thậm chí gởi một dòng tweet để người dùng theo dõi các hành động theo thời gian. Ngoài ra, cũng có thể thiết lập để thảm kiểm soát các thiết bị dùng Wi-Fi khác trong nhà như bóng đèn hoặc camera an ninh. 
+SmartMat được tích hợp pin 9V, có thể kết nối Wi-Fi và gửi tín hiệu liên tục trong 3 ngày. Khi ở chế độ standby, thảm sẽ trở về trạng thái nghỉ sau 60 giây để tiết kiệm pin. Nếu duy trì ở chế độ nay, thảm có thể hoạt động tới 100 ngày với điều kiện mỗi ngày phải có trọng lượng đặt lên tấm thảm trung bình 15 phút. 
+SmartMat có độ trễ kết nối nhất định, thường là từ 3 - 5 giây để tái kích hoạt sau khi thiết lập kết nối Wi-Fi trở lại. Hiện sản phẩm này đang có giá 75 USD dưới dạng gây quỹ cho tổ chức Kickstarter. Dự kiến hàng sẽ được chuyển vào tháng 6 năm nay. 
+Một số công dụng của thảm thông minh: 
+Cảnh báo khi trẻ rời nhà. Thảm có thể phân biệt được các thành viên trong gia đình thông qua cân nặng. 
+Báo cho chủ nhân ngôi nhà khi vật nuôi của họ đứng đợi ở bên ngoài cửa. 
+Tự động bật/tắt điện khi vào/ra khỏi nhà. 
+Thông báo khi có kiện hàng giao tới. 
+Cảnh báo khi người cao tuổi ra khỏi nhà. 
+Gia Nguyễn (Kickstarter) 

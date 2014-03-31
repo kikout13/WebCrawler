@@ -1,0 +1,8 @@
+Get Linux là phần mềm miễn phí có chức năng tổng hợp và cung cấp các phiên bản Linux miễn phí cho người dùng.
+Hình minh họa. (Nguồn: Internet) 
+Có bao giờ bạn tự hỏi là Linux có bao nhiêu bản phân phối? Hay cụ thể là ngoài Ubuntu thì Linux còn bao nhiêu bản phân phối khác? Câu trả lời sẽ có trong Get Linux. 
+Get Linux là phần mềm miễn phí có chức năng tổng hợp và cung cấp các phiên bản Linux miễn phí cho người dùng. Kho dữ liệu của Get Linux khá phong phú, với hơn 128 bản phân phối Linux trên cả 2 nền tảng là 32 bit và 64 bit. Để sử dụng, bạn cần tải về tập tin cài đặt của Get Linux tại đây , sau đó tiến hành cài Get Linux vào máy tính. 
+Sau khi cài đặt xong, bạn khởi động Get Linux bằng quyền quản trị cao nhất và chờ ít giây để phần mềm tải về các dữ liệu cần thiết. 
+Giao diện Get Linux khá đơn giản, bao gồm danh sách các bản phân phối Linux cùng hình ảnh screenshot của mỗi bản và thông tin về kích cỡ, tên gọi... 
+Sau khi lựa chọn được bản Linux mình cần, bạn tiến hành lựa chọn nền tảng 32 bit hay 64 bit, tiếp đó nhấn "Download" để tiến hành việc tải về. Thời gian tải về hoàn toàn phụ thuộc vào tốc độ đường truyền mà bạn đang sử dụng. 
+Nhìn chung thì Get Linux hoạt động khá tốt và là cơ sở cung cấp cho bạn cái nhìn tổng quát về các phiên bản Linux đang tồn tại và được phát triển khắp nơi trên thế giới. Hy vọng bạn sẽ thích nó. Theo GenK 
