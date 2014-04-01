@@ -1,7 +1,0 @@
-(TNO) Google vừa thay đổi lại một số chính sách về việc tung ra các hình ảnh quảng cáo trong các ứng dụng Android, nhằm giúp cho người dùng an toàn hơn khi sử dụng các phần mềm Android.
-Google muốn các ứng dụng Android trở nên an toàn hơn - Ảnh chụp màn hình 
-Theo Engadget, Google đã đưa ra các quy định mới đến các nhà phát triển khi họ có ý định chèn quảng cáo vào trong ứng dụng Android, với yêu cầu không được chèn các đoạn pop-up quảng cáo giả mạo hệ thống, thông báo khuyến mại giả mạo hoặc các hình thức quảng cáo dẫn dụ người dùng nhấn vào các liên kết không đúng với sự thật của quảng cáo. 
-Đặc biệt, Google cũng nghiêm cấm việc sử dụng các hình ảnh khiêu dâm để làm các đoạn quảng cáo và buộc các nhà lập trình phải ghi rõ phương thức thanh toán mua hàng hóa một cách minh bạch. 
-Google cho biết quy định mới này sẽ được áp dụng ngay lập tức và hãng cũng cho các nhà phát triển có thời gian 15 ngày để sửa đổi lại các quảng cáo vi phạm (nếu đã áp dụng trong các phần mềm). Nếu không, những ứng dụng vi phạm sẽ bị gỡ bỏ khỏi Google Play. 
-Việc làm này của Google sẽ giúp cho người dùng Android an tâm hơn khi cài đặt các phần mềm trên chợ trực tuyến Google Play. 
-Thành Luân 

@@ -1,6 +1,0 @@
-Trên mạng xã hội Facebook đang lan truyền chóng mặt một câu đố toán học với tựa đề rất thách thức: "Bạn có giỏi toán không?" và câu trả lời, đáng tiếc là phần lớn đều sai!
-Đây thực ra là một bài toán dạng thứ tự các phép tính đơn giản của học sinh cấp 2. 
-Câu trả lời của bạn là gì? Nhưng hiện tại, câu trả lời phổ biến nhất trên Facebook nước ngoài là 320. Nhiều người sử dụng đến cả máy tính, kêu ca là dài quá hoặc ra nhiều kết quả kỳ quặc: 16, 26... Câu trả lời phổ biến nhất là 320. 
-Để làm phép toán này, bạn phải nhớ đến công thức tính thứ tự các phép tính: Dấu ngoặc đơn, số mũ, nhân, chia, cộng, trừ. Bạn luôn phải tính phép nhân và chia trước khi cộng hay trừ. 
-Theo Thanh Xuân
- VnReview 

@@ -17,7 +17,9 @@ public class ListLinks {
 	}
 	
 	public void getAllCategoryLinks() throws IOException {
-		Document doc = Jsoup.connect(URL).get();
+		Document doc = Jsoup.connect(URL)
+				.timeout(100000)
+				.get();
 		Elements categoryElements = doc.select("div.storyblock-hdr a[href]");
 		for (Element categoryElement : categoryElements) {
 			String categoryLink = categoryElement.absUrl("href");
@@ -34,10 +36,10 @@ public class ListLinks {
 	}
 	
 	public ArrayList<String> getAllArticleLinks() throws IOException {
-		//Lay link trong cac category theo page. Moi category co 10000 pages. Duoi day test chuong trinh voi 10 pages, j=10
+		//Lay link trong cac category theo page. Moi category co 10000 pages.
 		for(int i=0; i<categoryLinks.size();i++) {
 			String categoryLink = categoryLinks.get(i);
-			for(Integer j = 1; j<=10;j++) {
+			for(Integer j = 1; j<=10000;j++) {
 				String pageLink = categoryLink.substring(0, (categoryLink.length()-4)) + "/p/" + j.toString() +".epi";
 				System.out.println("loadding link in " +pageLink);
 				Document doc = Jsoup.connect(pageLink).get();

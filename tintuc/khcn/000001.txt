@@ -1,7 +1,0 @@
-(Chinhphu.vn) - Crabster CR200 là loại robot có chức năng tham gia hoạt động khám phá đại dương, thăm dò các kho báu dưới đáy biển.
-Crabster CR200 được coi là robot đi bộ dưới nước sâu nhất và lớn nhất thế giới. 
-Crabster CR200 nặng khoảng 630 kg, có 6 chân, chiều dài mỗi chân khoảng 1,5 m. Với hình dáng này, robot còn được gọi bằng tên gọi khác là robot cua. 
-Crabster CR200 được coi là robot đi bộ dưới nước sâu nhất và lớn nhất thế giới. Chức năng của robot là tham gia hoạt động khám phá đại dương, thăm dò các kho báu dưới đáy biển. Ứng dụng trong nghiên cứu khoa học đại dương, robot có thể hỗ trợ các chuyên gia trong việc tạo lập bản đồ 3D về đáy biển. 
-Crabster được trang bị 11 camera,có thể lặn sâu từ 3-150 m so với mặt nước biển và đi bộ với tốc độ 1,6 km/h. 
-Các chuyên gia thuộc Viện Công nghệ và Khoa học Đại Dương Hàn Quốc (KIOST) cho biết mục tiêu thử nghiệm robot khổng lồ trong năm nay là ở độ sâu 200 m. 
-An Bình 

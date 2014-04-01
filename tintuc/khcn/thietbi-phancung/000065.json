@@ -1,0 +1,147 @@
+{
+  "Url": "http://www.baomoi.com/3-cong-cu-can-cho-viec-giai-quyet-nhung-van-de-toi-te-nhat-cua-WiFi/136/13448346.epi",
+  "Time": "01/04/2014 14:19",
+  "Title": "3 công cụ cần cho việc giải quyết những vấn đề tồi tệ nhất của Wi-Fi",
+  "Category": "Tin tức > KH-CN > Thiết bị - Phần cứng",
+  "Description": "(XHTT) Nhờ những cải tiến cho các router (bộ định tuyến) và phần mềm quản lý mạng, việc kết nối với Wi-Fi đã dễ hơn trước nhiều. Nhưng giờ đây bạn vẫn có thể “dính” các vấn đề như chất lượng tín hiệu kém, rơi kết nối, thiếu các điểm truy cập (hotspot) công cộng, tốc độ chậm. 3 chương trình sau sẽ giúp bạn giảm bớt đau đầu với Wi-Fi.",
+  "Content": "<tr> <td> <div> <p><span><strong>1. ViStumbler</strong></span><br /><br /><span>Tốc độ kết nối chậm ngay cả khi bạn đang trả tiền cho nhiều băng thông ư? Và kết nối của máy tính xách tay vẫn tiếp tục rớt ? Vấn đề có thể không phải ở kết nối băng thông rộng mà là do các router khác xung quanh bạn đang sử dụng cùng kênh Wi-Fi và gây nhiễu. Tiện ích miễn phí ViStumbler có thể giúp bạn khắc phục điều đó.</span></p> <p><span><span class='storyInlinePhoto'><img src='http://xahoithongtin.com.vn/files/vinh/64A01.png' /></span></span></p> <p><span><em>ViStumbler cho phép kiểm tra tất cả các router khác xung quanh bạn.</em></span></p> <p><span>Sau khi cài đặt ViStumbler , hãy khởi chạy nó > nhấp vào nút Scan APs. Sau vài giây, ViStumbler sẽ hiển thị các router Wi-Fi gần nhất trong khu vực. Ứng dụng có một số hiệu ứng âm thanh gây phiền nhiễu, vì vậy sau khi quét khoảng 20 router thì hãy nhấn Stop.</span><br /><br /><span>Giờ đây, bạn đã có danh sách các router Wi-Fi ở khu vực của mình với nhiều thông tin bổ sung như tên router, cường độ tín hiệu, kiểu mã hóa,... Nhưng chúng ta chỉ quan tâm đến cột “Channel”. Tìm router của bạn trong danh sách (nếu bạn đang kết nối với nó, nó sẽ ở ngay gần đầu) và xem bạn đang ở trên kênh nào.</span><br /><br /><span>Sau đó, so sánh nó với các router khác trên danh sách và xem có bao nhiêu router đang chia sẻ cùng kênh đó. Nếu có nhiều, hãy nhìn vào danh sách và xem những kênh nào có số router ít hơn. Ví dụ, trong hình trên, bạn sẽ muốn sử dụng các kênh 1, 6, hoặc 11 vì chúng không trùng lắp với nhau. Bạn sẽ phải đăng nhập vào router để tiến hành thay đổi cấu hình .</span><br /><br /><span><strong>2. Speed Test</strong></span></p> <p><span><em><span class='storyInlinePhoto'><img src='http://xahoithongtin.com.vn/files/vinh/64A02.png' /></span></em></span></p> <p><span><em>SpeedTest.net cho phép bạn thấy tốc độ kết nối thực sự của mình.</em></span></p> <p><span>Kết nối Wi-Fi tồi cũng có thể do ISP cung cấp tốc độ băng thông rộng kém hơn so với quảng cáo. Một trong những cách dễ nhất để kiểm tra tốc độ Internet là sử dụng website Speedtest.net của Ookla . Hãy điều hướng đến trang web và nhấn nút Begin Test màu xanh lá cây để bắt đầu.</span><br /><br /><span> Speedtest.net không chỉ là ứng dụng web mà còn có các ứng dụng cho Android, iOS và Windows Phone để kiểm tra kết nối bạn có ở nhà, khách sạn, quán cà phê.</span><br /><br /><span><strong>3. Biến máy tính xách tay thành hotspot Wi-Fi</strong></span></p> <p><span><em><span class='storyInlinePhoto'><img src='http://xahoithongtin.com.vn/files/vinh/64A03.png' /></span></em></span></p> <p><span><em>Biến máy tính xách tay thành hotspot Wi-Fi với các ứng dụng như MyPublicWiFi.</em></span></p> <p><span>Nhiều ứng dụng có thể biến máy tính xách tay thành hotspot Wi-Fi để chia sẻ kết nối với nhiều thiết bị khác. Một ứng dụng được đánh giá cao cho mục đích này là Connectify , nhưng phiên bản miễn phí có nhiều hạn chế và không hoạt động trên máy tính cài Windows 8.1.</span><br /><br /><span>Vì vậy, thay vào đó hãy chọn MyPublicWiFi - chương trình desktop miễn phí, sử dụng rất đơn giản. Tuy nhiên, MyPublicWiFi có mật khẩu mặc định khá yếu, khi chạy yêu cầu bạn nhấp chuột phải vào shortcut và chọn “Run as administrator”.</span><br /><br /><span><strong>Bạch Nam Anh</strong></span></p> </div><br /></td> </tr>",
+  "Key": [
+    "router",
+    "wifi",
+    "kết nối",
+    "hotspot",
+    "ứng dụng",
+    "máy tính xách tay",
+    "tốc độ",
+    "Test",
+    "danh sách",
+    "băng thông rộng",
+    "miễn phí",
+    "scan",
+    "ISP",
+    "Internet",
+    "website"
+  ],
+  "Trends": [
+    {
+      "Word": "Apple",
+      "Weight": "1"
+    },
+    {
+      "Word": "BlackBerry",
+      "Weight": "6"
+    },
+    {
+      "Word": "bộ nhớ trong",
+      "Weight": "5"
+    },
+    {
+      "Word": "chip",
+      "Weight": "3"
+    },
+    {
+      "Word": "độ phân giải",
+      "Weight": "2"
+    },
+    {
+      "Word": "Foxconn",
+      "Weight": "3"
+    },
+    {
+      "Word": "Full HD",
+      "Weight": "6"
+    },
+    {
+      "Word": "Google Android",
+      "Weight": "1"
+    },
+    {
+      "Word": "HTC",
+      "Weight": "3"
+    },
+    {
+      "Word": "HTC One",
+      "Weight": "2"
+    },
+    {
+      "Word": "iOS",
+      "Weight": "4"
+    },
+    {
+      "Word": "iPad",
+      "Weight": "3"
+    },
+    {
+      "Word": "iPhone",
+      "Weight": "1"
+    },
+    {
+      "Word": "iPhone 5",
+      "Weight": "5"
+    },
+    {
+      "Word": "LG",
+      "Weight": "5"
+    },
+    {
+      "Word": "lõi tứ",
+      "Weight": "2"
+    },
+    {
+      "Word": "Nokia",
+      "Weight": "6"
+    },
+    {
+      "Word": "PIN",
+      "Weight": "3"
+    },
+    {
+      "Word": "RAM",
+      "Weight": "5"
+    },
+    {
+      "Word": "Samsung",
+      "Weight": "1"
+    },
+    {
+      "Word": "Samsung Galaxy Note",
+      "Weight": "6"
+    },
+    {
+      "Word": "SIM",
+      "Weight": "5"
+    },
+    {
+      "Word": "smartphone",
+      "Weight": "1"
+    },
+    {
+      "Word": "Sony",
+      "Weight": "6"
+    },
+    {
+      "Word": "Tablet PC",
+      "Weight": "2"
+    },
+    {
+      "Word": "Telco",
+      "Weight": "4"
+    },
+    {
+      "Word": "video",
+      "Weight": "6"
+    },
+    {
+      "Word": "Weibo",
+      "Weight": "5"
+    },
+    {
+      "Word": "wifi",
+      "Weight": "6"
+    },
+    {
+      "Word": "Windows Phone",
+      "Weight": "5"
+    }
+  ]
+}

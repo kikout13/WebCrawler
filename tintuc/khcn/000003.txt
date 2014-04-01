@@ -1,7 +1,0 @@
-Robot tưới cây có tên Droplet, được thiết kế từ ý tưởng tạo ra hàng loạt robot làm vườn thông minh có thể thay thế con người.
-Robot tưới nước Droplet. 
-Robot tưới cây được thiết kế dựa trên công nghệ "điện toán đám mây". Các thiết bị nối khác giúp Droplet ngắm hướng vòi phun tới từng cây trong phạm vi bán kính 9,14 m. 
- Hệ thống lập trình chính xác trong cấu tạo cho phép robot hướng vòi phun nước đến đúng vị trí cần tưới mà không bắn nước ra ngoài. 
-Tính năng tự động của Droplet sẽ giúp robot nhận biết được đất, loại cây và các dữ liệu khác. Trước khi robot vận hành, người dùng sẽ cung cấp các thông tin về loại cây trong vườn qua hệ thống kết nối không dây với Droplet. 
-Với công nghệ điện toán đám mây, hệ thống tưới nước tự động Droplet có thể theo dõi tình hình thời tiết ở từng khu vực. Nhờ đó, Droplet sẽ tự xác định lượng nước vừa đủ để tưới cho cây. 
-Nhờ các tiện ích này, việc sử dụng Droplet sẽ tiết kiệm chi phí và nguồn tài nguyên nước của thế giới đáng kể. 
