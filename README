@@ -1,6 +1,4 @@
-[Update lần 2]
- - Main nằm trong file ContentParser.java
- - ContentParser lấy nội dung của 1 link từ baomoi.com ghi ra file json
- - ListLinks lấy tất cả các link bài báo từ baomoi.com 
- - Sử dụng thư viện: Gson, Jsoup
-
+[Update lần 3]
+ - Chạy hàm main nằm trong class Main, packet Main.
+ - Chạy hàm main với tham số là tên các category viết thường, liền: thegioi, vanhoa, xahoi,... để crawl theo từng category.
+ - Tham số "all" để crawl tất cả các category. 
